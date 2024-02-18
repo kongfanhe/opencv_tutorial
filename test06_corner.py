@@ -14,3 +14,5 @@ for corner in corners:
 cv2.imshow("corners", image)
 cv2.waitKey()
 # 可以发现，特征点主要都在图片的转角处
+
+

@@ -22,4 +22,3 @@ while ret:
         break
 
 capture.release()  # 释放指针
-

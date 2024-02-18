@@ -7,7 +7,6 @@ image = cv2.imread("opencv_logo.jpg")
 # 打印图片的形状（高度，宽度，通道数）
 print(image.shape)
 
-
 cv2.imshow("image", image)
 cv2.waitKey()  # 让窗口暂停
 

@@ -14,9 +14,8 @@ cv2.imshow("gray", gray)
 cv2.imshow("binary", binary)
 cv2.imshow("adaptive", binary_adaptive)
 cv2.imshow("otsu", binary_otsu)
+cv2.waitKey()
 
 # ret/ret1是一个浮点数，表示图像中像素值的阈值
 print(ret)
 print(ret1)
-cv2.waitKey()
-
