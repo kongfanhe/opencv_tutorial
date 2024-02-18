@@ -26,7 +26,7 @@
 ## 如何使用源代码
 
 1. 克隆或下载本仓库到本地。
-2. 确保你已经安装了Python和OpenCV库。(具体python基础知识的学习和开发环境的配置请移步[孔工码字个人B站主页](https://space.bilibili.com/302545359?spm_id_from=333.337.search-card.all.click))
+2. 确保你已经安装了Python和OpenCV库。(具体python基础知识的学习和开发环境的配置请移步[B站UP主孔工码字](https://space.bilibili.com/302545359?spm_id_from=333.337.search-card.all.click))
 3. 运行相应的Python脚本，查看图像处理效果。
 
 ## 贡献
